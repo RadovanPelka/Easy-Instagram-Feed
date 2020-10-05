@@ -1,0 +1,38 @@
+{
+  "name": "@raddo/easy-instagram-feed",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.5",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  },
+  "keywords": [
+    "npm",
+    "instagram",
+    "feed",
+    "insta",
+    "instafeed",
+    "raddo",
+    "@raddo",
+    "@raddo/easy-instagram-feed",
+    "fetch",
+    "typescript",
+    "simple",
+    "easy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadovanPelka/Easy-Instagram-Feed.git"
+  },
+  "author": "Radovan Pelka <pelka.radovan@gmail.com> (Raddo)",
+  "description": "An easy-to-use and simple Instagram package that allow you to fetch media content without API and access token.",
+  "bugs": {
+    "url": "https://github.com/RadovanPelka/Easy-Instagram-Feed/issues"
+  },
+  "homepage": "https://github.com/RadovanPelka/Easy-Instagram-Feed#readme"
+}
