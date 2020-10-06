@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import fetch from "node-fetch";
 
-interface InstagramFeedType {
+export interface InstagramFeedType {
   alt: string;
   url: string;
   src: string;
